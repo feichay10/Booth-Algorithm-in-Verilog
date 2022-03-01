@@ -15,6 +15,12 @@ Para compilar el programa, es recomendable usar el Script de Bash `compilation.s
 El comando utilizado para compilar es:
 ```bash
 
-	iverilog -o ActPrevia multiplicador_tb.v multiplicador.v uc.v caminosdatos.v componentes.v 		
+iverilog -o ActPrevia multiplicador_tb.v multiplicador.v uc.v caminosdatos.v componentes.v
+
+```
+Si queremos directamente compilar el programa, mostrar los resultados, generar los ficheros y acceder al GTKWAVE, podemos utilizar el programa `compilation.sh`. Solo hay que ejecutar el siguiente comando:
+```bash
+
+./compilation.sh
 
 ```

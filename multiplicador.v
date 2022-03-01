@@ -5,7 +5,7 @@ module multiplicador (input wire [2:0] Mcando, Mcador, input wire clk, start, ou
   wire [1:0] q;
 
   //Camino de datos
-  caminosdatos camino(Mcador, Mcando, ~clk, start, cargaA, cargaQ, cargaM, suma, desplazaAQ, q, producto);
+  caminosdatos camino(Mcador, Mcando, clk, start, cargaA, cargaQ, cargaM, suma, desplazaAQ, q, producto);
   
   //Unidad de Control
   uc unidad(clk, start, q, suma, desplazaAQ, cargaA, cargaQ, cargaM, fin);

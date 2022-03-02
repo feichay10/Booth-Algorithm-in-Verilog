@@ -25,4 +25,4 @@ Si queremos directamente compilar el programa, mostrar los resultados, generar l
 
 ```
 ## Problemas
-Los problemas que tuve al realizar la actividad fue la interconexion de los diferentes modulos y realizar el camino de datos en codigo Verilog. Además, no me acordaba mucho de este lenguaje de descripción de Hardware que eso hizo que se me complicara un poco más la realizacion de ella.
+Los problemas que tuve al realizar la actividad fue las interconexiones de los diferentes modulos y realizar el camino de datos en código Verilog. Además, no me acordaba mucho de este lenguaje de descripción de hardware que eso hizo que se me complicara un poco más la realizacion de ella. 

@@ -1,4 +1,5 @@
 # Algoritmo de Booth en Verilog
+![Camino de Datos](https://github.com/feichay10/Booth-Algorithm-in-Verilog/blob/70920594e56f60ddfdc3edd10f67fb061fde136d/assets/2022-03-02_09-21.png)
 
 ## Objetivo
 El objetivo de este algoritmo es la multiplicación de dos números con signo (3 bits en Complemento a 2). Para ello, el sistema se compone de una Unidad de Control, 
@@ -25,4 +26,4 @@ Si queremos directamente compilar el programa, mostrar los resultados, generar l
 
 ```
 ## Problemas
-Los problemas que tuve al realizar la actividad fue las interconexiones de los diferentes modulos y realizar el camino de datos en código Verilog. Además, no me acordaba mucho de este lenguaje de descripción de hardware que eso hizo que se me complicara un poco más la realizacion de ella. 
+Los problemas que tuve al realizar la actividad fueron las interconexiones de los diferentes módulos y realizar el camino de datos en código Verilog. Además, no me acordaba mucho de este lenguaje de descripción de hardware que eso hizo que se me complicara un poco más la realizacion de ella. 

@@ -1,4 +1,5 @@
 # Algoritmo de Booth en Verilog
+![Camino de Datos](https://github.com/feichay10/Booth-Algorithm-in-Verilog/blob/70920594e56f60ddfdc3edd10f67fb061fde136d/assets/2022-03-02_09-21.png)
 
 ## Objetivo
 El objetivo de este algoritmo es la multiplicación de dos números con signo (3 bits en Complemento a 2). Para ello, el sistema se compone de una Unidad de Control, 

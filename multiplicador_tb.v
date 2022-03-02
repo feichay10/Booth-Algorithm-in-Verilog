@@ -1,3 +1,12 @@
+/*
+-Actividad Previa: Diseño de Procesadores
+-Alumno: Cheuk Kelly Ng Pante
+-Correo: alu0101364544@ull.edu.es
+-Curso 2021 - 2022
+-Compilacion: iverilog -o ActPrevia multiplicador_tb.v multiplicador.v uc.v componentes.v caminosdatos.v 
+-Simulación: vvp ActPrevia
+*/
+
 `timescale 1 ns / 10 ps
 module multiplicador_tb;
 //Recordar que el caso de -4 en tres bits en el multiplicando dará error en Booth si no hacemos que los registros A y M tengan un bit más (hay overflow) (depende de la implementación del sumador/restador)

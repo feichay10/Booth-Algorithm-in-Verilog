@@ -1,4 +1,5 @@
 # Algoritmo de Booth en Verilog
+Camino de datos del Algoritmo de Booth:
 <p align="center">
   <img src="https://github.com/feichay10/Booth-Algorithm-in-Verilog/blob/9eb77ad59fc31fbf3e324f2241417f4a0323431d/assets/Camino%20de%20datos%20del%20Alg%20Booth.png" />
 </p>
@@ -31,5 +32,3 @@ Si queremos directamente compilar el programa, mostrar los resultados, generar l
 ./compilation.sh
 
 ```
-## Problemas
-Los problemas que tuve al realizar la actividad fueron las interconexiones de los diferentes módulos y realizar el camino de datos en código Verilog. Además, no me acordaba mucho de este lenguaje de descripción de hardware que eso hizo que se me complicara un poco más la realizacion de ella. 
